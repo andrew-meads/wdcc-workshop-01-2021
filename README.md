@@ -7,3 +7,5 @@
 - [Session One (HTML & basic CSS)](./session-01/)
 
 - [Session Three (Flexbox, CSS grid, responsive design)](./session-02/)
+
+- [Codepen collection](https://codepen.io/collection/rxOjwR)
